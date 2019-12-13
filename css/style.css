@@ -15,11 +15,11 @@ section{
 }
 .title{
     font-family: 'Montserrat-ExtraBold';
+    font-size: 90%;
     height: 5%;
     color: #fff;
-    padding: 12px 0 0 30px;
-
 }
+
 .container{
     background: #29ABE2;
     height: 100%;
@@ -31,7 +31,6 @@ section{
     height: 34%;
     width: 95%;
     margin: auto;
-    margin-top: 5px;
     
 
 }
@@ -40,5 +39,5 @@ section{
     height: 51%;
     width: 95%;
     margin: auto;
-    margin-top: 40px;
+    margin-top: 2.55%;
 }
