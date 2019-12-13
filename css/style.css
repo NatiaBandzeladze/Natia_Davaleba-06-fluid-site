@@ -1,7 +1,6 @@
 html, body{
     height:100%;
     width: 100%;
-
 }
 
 body{
@@ -11,7 +10,7 @@ body{
 .title{
     font-family: 'Montserrat-ExtraBold;
     22px;     
-    color: #0071BC;
+    color: #fff;
     padding: 12px 0 0 30px;
 
 }
@@ -23,8 +22,17 @@ body{
 }
 .yellow-box1{
     background:#FCEE21;
+    height: 40%;
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+    
 
 }
 .yellow-box2{
     background: #FCEE21;
+    height: 50%;
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
 }
