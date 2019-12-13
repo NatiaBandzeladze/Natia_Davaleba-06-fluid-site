@@ -5,11 +5,17 @@ html, body{
 
 body{
     padding: 2%;
+    background: #fff;
+}
+section{
+    height: 100%;
+    width: 100%;
+    padding: 2%;
     background: #22B573;
 }
 .title{
-    font-family: 'Montserrat-ExtraBold;
-    22px;     
+    font-family: 'Montserrat-ExtraBold';
+    height: 5%;
     color: #fff;
     padding: 12px 0 0 30px;
 
@@ -18,11 +24,11 @@ body{
     background: #29ABE2;
     height: 100%;
     width: 100%;
-    border:  #0071BC 2px;
+    
 }
 .yellow-box1{
     background:#FCEE21;
-    height: 40%;
+    height: 34%;
     width: 95%;
     margin: auto;
     margin-top: 5px;
@@ -31,7 +37,7 @@ body{
 }
 .yellow-box2{
     background: #FCEE21;
-    height: 50%;
+    height: 51%;
     width: 95%;
     margin: auto;
     margin-top: 40px;
