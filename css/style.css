@@ -6,18 +6,23 @@ html, body{
 body{
     padding: 2%;
     background: #fff;
+    padding-top: 0%;
+}
+.title-h1{
+    font-family: 'Montserrat-ExtraBold';
+    padding: 0.5% 35%;
 }
 section{
-    height: 100%;
+    height: 97%;
     width: 100%;
     padding: 2%;
     background: #22B573;
 }
 .title{
     font-family: 'Montserrat-ExtraBold';
-    font-size: 90%;
     height: 5%;
     color: #fff;
+    padding: 0.5% 2.5%;
 }
 
 .container{
