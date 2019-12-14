@@ -46,3 +46,25 @@ section{
     margin: auto;
     margin-top: 2.55%;
 }
+.white-boxes{
+    height: 100%;
+    width: 100%;
+    padding: 4% 2% 0% 4%;
+}
+.white-boxes:after{
+    content: "";
+    clear: left;
+    display: block;
+    
+}
+
+.white-box{
+    height: 60%;
+    width: 18.5%;
+    background: #fff;
+    float: left;
+    margin-right: 7%;
+}
+.white-box:last-child{
+    margin: 0;
+}
