@@ -4,7 +4,7 @@ html, body{
 }
 
 body{
-    padding: 2%;
+    padding: 3%;
     background: #fff;
     padding-top: 0%;
 }
@@ -13,7 +13,7 @@ body{
     padding: 0.5% 35%;
 }
 section{
-    height: 97%;
+    height: 100%;
     width: 100%;
     padding: 2%;
     background: #22B573;
@@ -30,27 +30,28 @@ section{
     background: #29ABE2;
     height: 100%;
     width: 100%;
-    
+    padding: 0 3%;
 }
 .yellow-box1{
     background:#FCEE21;
     height: 34%;
-    width: 95%;
+    width: 100%;
     margin: auto;
+    padding: 4% 0 0 4%;
     
 
 }
 .yellow-box2{
     background: #FCEE21;
     height: 51%;
-    width: 95%;
+    width: 100%;
     margin: auto;
     margin-top: 2.55%;
 }
 .white-boxes{
     height: 100%;
     width: 100%;
-    padding: 4% 2% 0% 4%;
+    
 }
 .white-boxes:after{
     content: "";

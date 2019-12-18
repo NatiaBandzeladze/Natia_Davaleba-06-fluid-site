@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'Montserrat-ExtraBold';
-    src: url('Montserrat-ExtraBold.eot');
-    src: url('Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
-         url('Montserrat-ExtraBold.svg#Montserrat-ExtraBold') format('svg'),
-         url('Montserrat-ExtraBold.woff') format('woff'),
-         url('Montserrat-ExtraBold.woff2') format('woff2');
+    src: url(../fonts/'Montserrat-ExtraBold.eot');
+    src: url(../fonts/'Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url(../fonts/'Montserrat-ExtraBold.svg#Montserrat-ExtraBold') format('svg'),
+         url(../fonts/'Montserrat-ExtraBold.woff') format('woff'),
+         url(../fonts/'Montserrat-ExtraBold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'Montserrat-Black';
-    src: url('Montserrat-Black.eot');
-    src: url('Montserrat-Black.eot?#iefix') format('embedded-opentype'),
-         url('Montserrat-Black.svg#Montserrat-Black') format('svg'),
-         url('Montserrat-Black.woff') format('woff'),
-         url('Montserrat-Black.woff2') format('woff2');
+    src: url(../fonts/'Montserrat-Black.eot');
+    src: url(../fonts/'Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+         url(../fonts/'Montserrat-Black.svg#Montserrat-Black') format('svg'),
+         url(../fonts/'Montserrat-Black.woff') format('woff'),
+         url(../fonts/'Montserrat-Black.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
