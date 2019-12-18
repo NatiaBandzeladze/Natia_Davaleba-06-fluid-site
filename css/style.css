@@ -38,8 +38,6 @@ section{
     width: 100%;
     margin: auto;
     padding: 4% 0 0 4%;
-    
-
 }
 .yellow-box2{
     background: #FCEE21;
@@ -50,14 +48,12 @@ section{
 }
 .white-boxes{
     height: 100%;
-    width: 100%;
-    
+    width: 100%; 
 }
 .white-boxes:after{
     content: "";
     clear: left;
     display: block;
-    
 }
 
 .white-box{
@@ -66,23 +62,20 @@ section{
     background: #fff;
     float: left;
     margin-right: 7%;
-    
+    padding: 2%;
 }
 .white-box:last-child{
     margin: 0;
 }
 .pink-box{
     background: #ED1E79;
-    height: 70%;
-    width: 75%;
-    margin: 8% 0 0 13%;
-    
+    height: 100%;
+    width: 100%;   
 }
 .pink-box p{
     color: #fff;
     font-size: 16px;
     padding: 15% 0 0 30%;
-
 }
 .yellow-box2 p{
     color: #fff;
